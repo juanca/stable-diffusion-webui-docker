@@ -29,8 +29,8 @@ This repository provides multiple UIs for you to play around with stable diffusi
 ### Model paths
 
 Volume is mounted from `./data` to `/data`. 
-Please downloaded models into the `/data/models` directory. 
-See [mapping configuration file](https://github.com/AbdBarho/stable-diffusion-webui-docker/blob/master/services/comfy/extra_model_paths.yaml) for details on folder names based off model type. 
+Download models into the `/data/models` directory. 
+See [mapping configuration file](https://github.com/AbdBarho/stable-diffusion-webui-docker/blob/master/services/comfy/extra_model_paths.yaml) for details on folder names based on model type. 
 
 ## Contributing
 
